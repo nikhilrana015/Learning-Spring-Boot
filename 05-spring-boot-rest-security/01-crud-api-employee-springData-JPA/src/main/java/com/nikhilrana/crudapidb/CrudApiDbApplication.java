@@ -1,0 +1,13 @@
+package com.nikhilrana.crudapidb;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CrudApiDbApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CrudApiDbApplication.class, args);
+	}
+
+}
